@@ -1,3 +1,5 @@
+ProgNET Aug 2019 cCharp Wards Unity 3D course fork. No longer actively being work ed on.
+
 # CSharpWars
 
 ![CSharp Wars Logo](https://www.djohnnie.be/csharpwars/logo.png "CSharp Wars Logo")
