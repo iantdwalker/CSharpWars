@@ -1,4 +1,4 @@
-ProgNET Aug 2019 cCharp Wards Unity 3D course fork. No longer actively being worked on.
+ProgNET Aug 2019 CSharp Wars Unity 3D course fork. No longer actively being worked on.
 
 # CSharpWars
 
